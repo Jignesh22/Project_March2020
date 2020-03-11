@@ -64,7 +64,7 @@ public class HashmapBasic {
 		
 		mp.clear();
 				
-	
+		System.out.println("Modification1");
 		
 	}
 
